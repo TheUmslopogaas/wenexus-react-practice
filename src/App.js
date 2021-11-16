@@ -31,9 +31,9 @@ class MyApp extends App {
       logo: {
         width: 124,
         topBarSource:
-          "https://cdn.shopify.com/s/files/1/0446/6937/files/jaded-pixel-logo-color.svg?6215648040070010999",
-        url: "http://jadedpixel.com",
-        accessibilityLabel: "Jaded Pixel"
+          "https://cdn.shopify.com/s/files/1/0346/5065/2810/files/email_logo_url_500x.png?v=1586326664",
+        url: "we-nexus.com",
+        accessibilityLabel: "WeNexus"
       }
     };
     return (
